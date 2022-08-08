@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Swati383
+- 👀 I’m interested in Data analyst opportunities
+- 🌱 I’m currently learning python and MySQL
+- 💞️ I’m looking to collaborate on iNeuron.ai
+- 📫 For contact me use swatigautam383@gmail.com
