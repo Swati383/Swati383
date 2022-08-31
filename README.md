@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swati383
 - 👀 I’m interested in Data analyst opportunities
-- 🌱 I’m currently learning python and MySQL
-- 💞️ I’m looking to collaborate on iNeuron.ai
+- 🌱 I have skills like Microsoft power Bi, MySQL, Python library, MS office, Statistics
+- 💞 I use Kaggle to take data for practice.
 - 📫 For contact me use swatigautam383@gmail.com
