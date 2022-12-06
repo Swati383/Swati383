@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swati383
-- 👀 I’m interested in Data analyst opportunities
-- 🌱 I have skills like Microsoft power Bi, MySQL, Python library, MS office, Statistics
+- 👀 I’m interested in Project coordinator + Business analyst opportunities
+- 🌱 I have skills like Project Management, Microsoft power Bi, MySQL, Python library, MS office, Statistics.
 - 💞 I use Kaggle to take data for practice.
 - 📫 For contact me use swatigautam383@gmail.com
